@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "War and Peace",
+      "author": "Lev Tolstoi",
+      "price": 10.99,
+      "imgUrl": "/images/tolstoi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kokoro",
+      "author": "Natsume Shoseki",
+      "price": 4.99,
+      "imgUrl": "/images/kokoro.jpg"
+    },
+    {
+      "id": 3,
+      "name": "En busca del tiempo perdido",
+      "author": "Marcel Proust",
+      "price": 20.99,
+      "imgUrl": "/images/proust.jpg"
+    },
+    {
+      "id": 4,
+      "name": "El ingenioso hidalgo don Quijote de la Mancha",
+      "author": "Miguel de Cervantes Saavedra",
+      "price": 13.99,
+      "imgUrl": "/images/quijote.jpg"
+    }
+  ]
